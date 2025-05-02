@@ -25,6 +25,7 @@ Our repository will have several different folders each with their own set of fi
 - Data: This folder contains the links to the platforms we gathered our data from.
 - Notebook: This folder contains our Jupyter notebook with our code.
 - CSV/Excel: This folder contains the csv and excel files we used throughout the Jupyter notebook to either upload data into the notebook or save data as a DataFrame.
+- PowerPoint: This folder contains our PowerPoint presentation of our data analysis and research findings.
 
 ## Table of Contents
 | Website Name | Website Link |
