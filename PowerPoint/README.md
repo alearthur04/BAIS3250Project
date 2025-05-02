@@ -2,7 +2,6 @@
 - We horizontally integrated our files, 'IMDB_Top_250.xlsx' and 'the_oscar_award'
 - We performed a variety of tests:
   - Univariate: We looked at one column, 'Nominations', to calculate how many movies were above average or at/below average for the number of nominations they have received
-  - Bivariate: We looked at two columns, 'Score' and 'Run_Time_Minutes', to create a scatterplot
-  - Hypothesis Test (T-Test)
-  - Visualizations
-  - Machine Learning
+  - Bivariate: We looked at two columns, 'Score' and 'Run_Time_Minutes', to create a scatterplot to see if longer runtimes seem to be more highly rated than shorter runtimes and vice versa
+  - Hypothesis Test (T-Test): We figured out that there is no significant difference between award winning movies and non-award winning movies in terms of rating. Since most of the movies were rated above 8, on a 10 point scale, this seems to be accurate
+  - Machine Learning: We created a visualization for logistic regression and found that more recent movies are a little bit more popular than older movies
