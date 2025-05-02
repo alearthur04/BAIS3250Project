@@ -23,7 +23,7 @@ We asked the following research questions to perform analysis on these two data 
 ## Folder Structure
 Our repository will have several different folders each with their own set of files. Our folders are as follows:
 - Data: This folder contains the links to the platforms we gathered our data from.
-- Notebook: This folder contains our Jupyter notebook with our code.
+- Jupyter Notebook: This folder contains our Jupyter notebook with our code.
 - CSV/Excel: This folder contains the csv and excel files we used throughout the Jupyter notebook to either upload data into the notebook or save data as a DataFrame.
 - PowerPoint: This folder contains our PowerPoint presentation of our data analysis and research findings.
 
