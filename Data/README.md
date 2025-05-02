@@ -2,7 +2,7 @@ This folder shows our data dictionary.
 
 ### Data Dictionary
 | Field | Description |
-| ------ | ------ | ------|
+| ------ | ------ |
 | Movie_Name (Text) | Movie Title |
 | Winner (Boolean) | Winner or Non-Winner (True or False)? |
 | Run_Time_Minutes (Numeric) | How long, in minutes, is the movie? |
