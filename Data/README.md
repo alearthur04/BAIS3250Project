@@ -1,7 +1,7 @@
 This folder shows our data dictionary.
 
 ### Data Dictionary
-| Field | Description |
+| Field | Type | Description |
 | ------ | ------ |
 | Movie_Name (Text) | Movie Title |
 | Winner (Boolean) | Winner or Non-Winner (True or False)? |
