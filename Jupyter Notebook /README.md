@@ -1,2 +1,0 @@
-### Data
-- Sample Data Dictionary
