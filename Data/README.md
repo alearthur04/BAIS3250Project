@@ -14,7 +14,7 @@ This folder shows our data dictionary and has the links to the webistes we gathe
 Data Dictionary Breakdown:
 - Movie_Name is simply the name of the movie, which is from the IMDb and Oscars website
 - Winner is whether or not the movie has won an Oscar. We will simply say 'True' or 'False' (Boolean) based on the results
-- Run_Time_Minutes is how long the movie runs for, in minutes. We originally had the movie in hours and minutes, but that cause errors in our code, so we changed it to just minutes
+- Run_Time_Minutes is how long the movie runs for, in minutes. We originally had the movie in hours and minutes, but that caused errors in our code, so we changed it to just minutes
 - Year is simply the year that the movie was released/aired
 - Nominations are the number of nominations that the movie has received. This integer column was created from the orginal winner column which contained True/False values
 - Score is the IMDb rating of the movie. This is out of a scale of 10. Since these movies are considered the top 250 movies of all-time, they are rated pretty high (around 8 and 9)
