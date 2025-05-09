@@ -24,7 +24,7 @@
 8. List the movies from the IMDb top 250
 9. Successfully horizontally integrate the two dataframes using pd.merge and an inner join
     - Save the file as 'Horizontal_Integration_Films.csv'
-10. Perform Univariate Analysis (I give more information about this in the PowerPoint folder)
+10. Perform Univariate Analysis
     - Looking at the 'Nominations' tab, find the average number of nominations across all movies, and whether or not movies fall above or at/below the average
 11. Perform Bivariate Analysis
     - Answer if movies with longer runtimes are more popular than movies with shorter runtimes or vice versa
