@@ -8,4 +8,4 @@ This folder contains our full PowerPoint presentation for the project. We have a
   - Bivariate: We looked at two columns, 'Score' and 'Run_Time_Minutes', to create a scatterplot to see if longer runtimes seem to be more highly rated than shorter runtimes and vice versa
   - Hypothesis Test (T-Test): We figured out that there is no significant difference between award winning movies and non-award winning movies in terms of rating. Since most of the movies were rated above 8, on a 10 point scale, this seems to be accurate
   - Machine Learning: We created a visualization for logistic regression and found that more recent movies are a little bit more popular than older movies
-  - Sentiment Analysis: We performed sentiment analysis to find the lowest ands highest popularity score based on movie name. We also wanted to explore the sentiment over time for the year column and visualized this with a line graph.
+  - Sentiment Analysis: We performed sentiment analysis to find the lowest and highest popularity score based on movie name. We also wanted to explore the sentiment over time for the year column and visualized this with a line graph.
