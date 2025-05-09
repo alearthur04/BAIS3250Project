@@ -1,3 +1,6 @@
+# Description
+This folder contains our full PowerPoint presentation for the project. We have an initial analysis slide, slides for each of the tests we performed including descriptions and charts, a slide describing our questions and challenges, a slide with our final conclusions, and lastly, a slide that has our final data dictionary.
+
 ### Data Wrangling Project PowerPoint
 - We horizontally integrated our files, 'IMDB_Top_250.xlsx' and 'the_oscar_award'
 - We performed a variety of tests:
