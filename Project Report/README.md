@@ -2,7 +2,7 @@ This folder cotains our project report.
 
 # Report Layout
   # Introduction
-  Our project begins with our introduction. We briefly explain the twon data sources we worked with, why we chose the sources, and   why we are performing this analysis.
+  Our project begins with our introduction. We briefly explain the two data sources we worked with, why we chose the sources, and   why we are performing this analysis.
 
   # Data
   Our next section is our data section and this portion gives more in depth detail about our data sources. We explain where we got each data source as well as some key information that is important to know about the data within each source. Additionally, we include links to our data sources.
