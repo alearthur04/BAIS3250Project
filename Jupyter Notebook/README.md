@@ -1,3 +1,6 @@
+# Description
+This folder contains our Jupyter Notebook that has iur entire project code. This notebook features code used to scrape the IMDb website, load in the Oscar Awards dataset, horizontally integrate the two dataframes, and finally, perform various tests and analyses to answer our five research questions.
+
 ### Steps we took to answer our 4 questions:
 1. Scraped the IMDb website (250 entries)
 2. Create a movies_df dataframe and convert the runtime to minutes
