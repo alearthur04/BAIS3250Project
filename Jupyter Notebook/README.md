@@ -1,7 +1,7 @@
 ### Steps we took to answer our 4 questions:
 1. Scraped the IMDb website (250 entries)
 2. Create a movies_df dataframe and convert the runtime to minutes
-   - 250 rows x 7 columns
+   - 250 rows x 4 columns
    - Create an Excel file called 'IMDB_Top_250.xlsx'
 3. Read in 'the_oscar_award.csv' file
    - 11,110 rows x 8 columns
@@ -33,4 +33,6 @@
     - Read in 'Horizontal_Integration_Films.csv'
     - Perform the analysis and see that there is no significant difference between non-winning movies and winning movies compared to IMDb score
 13. Perform Machine Learning
-    - Use Logistic Regression to find the accuracy score and if olders movies (before 2000) are more popular than newer movies (after 2000)
+    - Use Logistic Regression, Decision Tree, and two KNN tests to find the accuracy score and if older movies (before 2000) are more popular than newer movies (after 2000)
+14. Perform Sentiment Analysis
+   - Use this test to find the lowest and highest popularity test based on movie name as well as the sentiment over time for the year column
