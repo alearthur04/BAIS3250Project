@@ -35,4 +35,4 @@
 13. Perform Machine Learning
     - Use Logistic Regression, Decision Tree, and two KNN tests to find the accuracy score and if older movies (before 2000) are more popular than newer movies (after 2000)
 14. Perform Sentiment Analysis
-    - Use this test to find the lowest and highest popularity test based on movie name as well as the sentiment over time for the year column
+    - Use this test to find the lowest and highest popularity score based on movie name as well as the sentiment over time for the year column
