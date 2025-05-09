@@ -2,15 +2,15 @@
 This folder shows our data dictionary and has the links to the webistes we gathered our data from.
 
 ### Data Dictionary
-| Field | Description |
-| ------ | ------ |
-| Movie_Name (Text) | Movie Title |
-| Winner (Boolean) | Winner or Non-Winner (True or False)? |
-| Run_Time_Minutes (Numeric) | How long, in minutes, is the movie? |
-| Year (Numeric) | What year did the movie air? |
-| Nominations (Numeric) | How many nominations did the movie receive? |
-| Score (Numeric) | What does IMDb rate the movie? |
-| Winners (Numeric) | How many times has the movie won an Oscar? |
+| Field | Type | Description |
+| ------ | ------ | ------ |
+| Movie_Name | Text | Movie Title |
+| Winner | Boolean | Did this movie win an Oscar or not (True or False)? |
+| Run_Time_Minutes | Numeric | How long (in minutes) is the movie? |
+| Year | Numeric | What year did the movie air? |
+| Nominations | Numeric | How many nominations did the movie have? |
+| Score | Numeric | What does IMDb rate the movie? |
+| Winners | Numeric | How many times has the movie won an Oscar? |
 
 Data Dictionary Breakdown:
 - Movie_Name is simply the name of the movie, which is from the IMDb and Oscars website
